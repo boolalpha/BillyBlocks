@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.400ebb5a.chunk.css",
+    "main.js": "/static/js/main.7c083664.chunk.js",
+    "main.js.map": "/static/js/main.7c083664.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3582529c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3582529c.js.map",
+    "static/js/2.1afde5cd.chunk.js": "/static/js/2.1afde5cd.chunk.js",
+    "static/js/2.1afde5cd.chunk.js.map": "/static/js/2.1afde5cd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.400ebb5a.chunk.css.map": "/static/css/main.400ebb5a.chunk.css.map",
+    "static/js/2.1afde5cd.chunk.js.LICENSE.txt": "/static/js/2.1afde5cd.chunk.js.LICENSE.txt",
+    "static/media/AddMumbai.515b0a27.mp4": "/static/media/AddMumbai.515b0a27.mp4",
+    "static/media/ConnectWallet.f0a31a63.mp4": "/static/media/ConnectWallet.f0a31a63.mp4",
+    "static/media/EditCoin.f98d022e.mp4": "/static/media/EditCoin.f98d022e.mp4",
+    "static/media/GetInfo.dbb61e5b.mp4": "/static/media/GetInfo.dbb61e5b.mp4",
+    "static/media/MintCoin.87609477.mp4": "/static/media/MintCoin.87609477.mp4",
+    "static/media/TestnetFaucet.475c8f63.mp4": "/static/media/TestnetFaucet.475c8f63.mp4",
+    "static/media/TransferCoin.d9d66646.mp4": "/static/media/TransferCoin.d9d66646.mp4",
+    "static/media/edit.5de789ef.png": "/static/media/edit.5de789ef.png",
+    "static/media/logo.e7b1061e.png": "/static/media/logo.e7b1061e.png",
+    "static/media/mint.4968f527.png": "/static/media/mint.4968f527.png",
+    "static/media/wallet.cf00d6f9.png": "/static/media/wallet.cf00d6f9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3582529c.js",
+    "static/js/2.1afde5cd.chunk.js",
+    "static/css/main.400ebb5a.chunk.css",
+    "static/js/main.7c083664.chunk.js"
+  ]
+}
