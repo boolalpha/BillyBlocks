@@ -1153,7 +1153,7 @@ const BDNFT = () => {
                         </div>
                         <div className="menuContentPage">
                             <div className="menuContentPageRow">Developed by <a href="https://www.boolalpha.com">boolalpha</a> from michigan</div>
-                            <div className="menuContentPageRow">The BillyBlock Contract can be found <a href="https://github.com/boolalpha/SmartContracts/tree/main/BillyBlocks">here</a></div>
+                            <div className="menuContentPageRow">The BillyBlock Contract can be found <a href="https://github.com/boolalpha/BillyBlocks">here</a></div>
                             <div className="menuContentPageRow">For help adding Polygon/MATIC to your Metamask wallet go <a href="https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask#polygon-scan">here</a></div>
                             <div className="menuContentPageRow">To use the app on mobile be sure you are using a Web3 enabled browser (ex. Metamask Mobile App).</div>
                             <div className="menuContentPageRow">Any questions please reach out to <a href="mailto:BigBilly@billynft.com">BigBilly@billynft.com</a></div>
